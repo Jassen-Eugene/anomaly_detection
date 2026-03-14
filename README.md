@@ -1,4 +1,4 @@
-# anomaly_detection - README
+# anomaly_detection
 
 ## Présentation
 
