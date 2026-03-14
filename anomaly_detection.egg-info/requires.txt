@@ -1,0 +1,9 @@
+torch
+torchvision
+pillow
+matplotlib
+lpips
+faiss-cpu
+tqdm
+numpy
+pyyaml

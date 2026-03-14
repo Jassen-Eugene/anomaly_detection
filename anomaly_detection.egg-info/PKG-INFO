@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: anomaly_detection
+Version: 0.1
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: pillow
+Requires-Dist: matplotlib
+Requires-Dist: lpips
+Requires-Dist: faiss-cpu
+Requires-Dist: tqdm
+Requires-Dist: numpy
+Requires-Dist: pyyaml
+Dynamic: requires-dist

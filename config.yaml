@@ -1,0 +1,6 @@
+data_dir: "/data/mvtec/transistor"
+model_dir: "/app/models"
+batch_size: 16
+epochs: 100
+latent_dim: 100
+device: auto  # "auto" | "cpu" | "cuda"
